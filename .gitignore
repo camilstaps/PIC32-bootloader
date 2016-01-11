@@ -1,0 +1,7 @@
+firmware/PIC32_bootloader.X/
+firmware/PIC32_bootloader.hconfig
+firmware/src/system_config/**/*.c
+firmware/src/system_config/**/*.h
+firmware/src/system_config/*/system_config.h
+firmware/src/system_config/*/system_definitions.h
+firmware/src/system_config/*/configuration.xml
